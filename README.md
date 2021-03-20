@@ -27,22 +27,3 @@ Encoding base de datos: utf8mb4_general_ci
 Prefijo base de datos: wp_
 
 
-
-Admin
-
-Usuario: endeavor
-
-Contraseña: endeavor123
-
-Correo: manuelm1209@hotmail.com
-
-Titulo del sitio: endeavor
-
-
-Usuarios:
-endeavor1
-endeavor2
-endeavor3
-endeavor4
-
-Password: endeavor123
